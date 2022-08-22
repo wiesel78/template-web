@@ -8,14 +8,13 @@ Basic template with
 - Typescript
 - Vite
 
-# Rename
+## Rename
 Rename template-web with your own app name
 
 - package.json -> name
 - index.html -> title
-- 
 
-# Install
+## Install
 Install basic packages
 
 ```
